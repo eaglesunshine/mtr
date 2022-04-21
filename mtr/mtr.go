@@ -12,8 +12,8 @@ import (
 	"time"
 
 	gm "github.com/buger/goterm"
-	"github.com/eaglesunshine/mtr/pkg/hop"
-	"github.com/eaglesunshine/mtr/pkg/icmp"
+	"github.com/eaglesunshine/mtr/hop"
+	"github.com/eaglesunshine/mtr/icmp"
 )
 
 type MTR struct {
